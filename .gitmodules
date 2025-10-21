@@ -1,3 +1,6 @@
 [submodule "LZ77-Technique"]
 	path = LZ77-Technique
 	url = git@github.com:fatema123elfiky/LZ77-Technique.git
+[submodule "Standard-Huffman-Technique"]
+	path = Standard-Huffman-Technique
+	url = git@github.com:fatema123elfiky/Standard-Huffman-Technique.git
