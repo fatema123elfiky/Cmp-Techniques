@@ -1,0 +1,3 @@
+[submodule "LZ77-Technique"]
+	path = LZ77-Technique
+	url = git@github.com:fatema123elfiky/LZ77-Technique.git
