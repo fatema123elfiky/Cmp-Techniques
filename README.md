@@ -1,2 +1,2 @@
 # Cmp-Techniques
-Different data compression&amp; decompression techniques implemented in python.
+Different cmp & decmp techniques are implemented in python.
