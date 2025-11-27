@@ -4,3 +4,6 @@
 [submodule "Standard-Huffman-Technique"]
 	path = Standard-Huffman-Technique
 	url = git@github.com:fatema123elfiky/Standard-Huffman-Technique.git
+[submodule "Vector-Cmp"]
+	path = Vector-Cmp
+	url = git@github.com:fatema123elfiky/Vector-Cmp.git
