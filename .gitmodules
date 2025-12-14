@@ -7,3 +7,6 @@
 [submodule "Vector-Cmp"]
 	path = Vector-Cmp
 	url = git@github.com:fatema123elfiky/Vector-Cmp.git
+[submodule "PredictiveCoding2D"]
+	path = PredictiveCoding2D
+	url = https://github.com/fatema123elfiky/PredictiveCoding2D.git
